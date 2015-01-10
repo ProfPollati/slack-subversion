@@ -6,3 +6,5 @@ Subversion integration for Slack
 3. Change absolute path to slack-posthook.py on your server in post-commit
 
 That's it. Python code hasn't any external or third-party library dependencies. And can be run with Python 2.6 And maybe lower or higher, just not tested.
+
+Thanks https://github.com/tinyspeck/services-examples and https://github.com/svvitale/hipchat-svn-post-commit-python for initial idea.
